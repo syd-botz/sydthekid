@@ -1,5 +1,5 @@
 publishDir="docs"
-baseURL = "www.banjoboy.net"
+baseURL = "https://banjoboy.net/"
 languageCode = "en-us"
 title = "syd the kid"
 
