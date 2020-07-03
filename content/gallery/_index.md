@@ -2,6 +2,6 @@
 title: "pics"
 type: "gallery"
 url: "/gallery"
-maxWidth: "800x"
+maxWidth: "1000x"
 clickablePhotos: true
 ---

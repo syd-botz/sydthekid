@@ -1,16 +1,28 @@
 publishDir="docs"
-baseURL = "http://example.org/"
+baseURL = "www.banjoboy.net"
 languageCode = "en-us"
-title = "syd the banjo kid"
+title = "syd the kid"
 
 [[params.mainMenu]]
-    link = '/'
-    text = 'who'
+    link = '/about'
+    text = 'syd'
 
 [[params.mainMenu]]
-    link = '/posts'
-    text = 'posts'
+    link = '/thoughts'
+    text = 'thinks'
+
+[[params.mainMenu]]
+    link = '/playlists'
+    text = 'listens to'
 
 [[params.mainMenu]]
     link = '/gallery'
-    text = 'gallery'
+    text = 'sees'
+
+[[params.mainMenu]]
+    link = '/readon'
+    text = 'reads'
+
+[[params.mainMenu]]
+    link = '/'
+    text = 'home'

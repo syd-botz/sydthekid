@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>syd the banjo kid</title>
-    <link>http://example.org/</link>
-    <description>Recent content on syd the banjo kid</description>
+    <title>syd the kid</title>
+    <link>www.banjoboy.net/</link>
+    <description>Recent content on syd the kid</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.banjoboy.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sydthekid</title>
+      <link>www.banjoboy.net/about/</link>
+      <pubDate>Fri, 03 Jul 2020 13:32:42 -0700</pubDate>
+      
+      <guid>www.banjoboy.net/about/</guid>
+      <description>hey syd botz here (sounds like &amp;ldquo;boats&amp;rdquo;). minnesota born and bred. i wish i could tell you where i am now, but it changes a lot in these covid times. i am a super fan of bluegrass, country, folk, acoustic &amp;hellip; music.
+i am a software developer during the day and listen to music and do yarn crafts in the evening.
+and, no, i don&amp;rsquo;t play the banjo but boy i do wish i could.</description>
+    </item>
     
   </channel>
 </rss>
