@@ -5,8 +5,14 @@ draft: false
 type: "content"
 ---
 
-hey syd botz here (sounds like "boats"). minnesota born and bred. i wish i could tell you where i am now, but it changes a lot in  these covid times. i am a super fan of bluegrass, country, folk, acoustic ... music. 
+syd botz here (sounds like "boats"). minnesota born and bred.
 
-i am a software developer during the day and listen to music and do yarn crafts in the evening.    
+in a constant state of moving (IL-MN-CA) these days. 
 
-and, no, i don't play the banjo. 
+listening to music to find home.
+
+software developer. yarn artist. amateur country and bluegrass music historian. 
+
+not a banjo player.  
+
+send me a msg @ sydneylaurabotz@gmail.com.  

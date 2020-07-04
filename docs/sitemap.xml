@@ -13,16 +13,6 @@
   </url>
   
   <url>
-    <loc>https://banjoboy.net/playlists/my-first-playlist/</loc>
-    <lastmod>2020-07-03T14:02:42-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://banjoboy.net/playlists/</loc>
-    <lastmod>2020-07-03T14:02:42-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://banjoboy.net/readon/</loc>
     <lastmod>2020-07-03T13:32:42-07:00</lastmod>
   </url>
@@ -43,6 +33,10 @@
   
   <url>
     <loc>https://banjoboy.net/gallery/</loc>
+  </url>
+  
+  <url>
+    <loc>https://banjoboy.net/playlists/</loc>
   </url>
   
   <url>
