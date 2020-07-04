@@ -9,4 +9,4 @@ hey syd botz here (sounds like "boats"). minnesota born and bred. i wish i could
 
 i am a software developer during the day and listen to music and do yarn crafts in the evening.    
 
-and, no, i don't play the banjo but boy i do wish i could. 
+and, no, i don't play the banjo. 

@@ -19,7 +19,6 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  align-items: center;
   opacity: 1; }
 
 header {
@@ -70,9 +69,6 @@ hr {
   border-width: 1px;
   opacity: 0.3; }
 
-nav {
-  margin: 1em auto; }
-
 .wrap {
   margin: 0 auto;
   width: 45%;
@@ -97,6 +93,15 @@ nav {
   justify-content: center;
   align-items: flex-start; }
 
+.flex-container-row {
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto; }
+  @media screen and (max-width: 736px) {
+    .flex-container-row {
+      flex-direction: column;
+      align-items: flex-start; } }
 .bottom-menu {
   display: flex;
   flex-direction: column;
@@ -124,7 +129,26 @@ nav {
 
 #splash {
   min-height: calc(100vh - 6em);
-  margin-left: 45px; }
+  margin: 1em 45px;
+  width: 35%; }
+
+#home-page {
+  background-image: url("/greensky_at_night_grayscale.jpg");
+  background-size: cover;
+  display: flex; }
+
+#home-quote {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: flex-end;
+  margin: 2em;
+  opacity: 70%; }
+
+#home-quote-body {
+  font-size: 30px;
+  letter-spacing: 1px;
+  line-height: 1.4; }
 
 .big-link {
   font-family: "Didact Gothic", "sans serif";

@@ -13,7 +13,7 @@ title = "syd the kid"
 
 [[params.mainMenu]]
     link = '/playlists'
-    text = 'listens to'
+    text = 'listens'
 
 [[params.mainMenu]]
     link = '/gallery'
