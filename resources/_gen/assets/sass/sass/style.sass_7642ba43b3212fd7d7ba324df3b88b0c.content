@@ -135,7 +135,9 @@ hr {
 #home-page {
   background-image: url("/greensky_at_night_grayscale.jpg");
   background-size: cover;
-  display: flex; }
+  display: flex;
+  background-repeat: no-repeat;
+  background-color: #000004; }
 
 #home-quote {
   display: flex;
