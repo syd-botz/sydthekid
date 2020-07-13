@@ -1,6 +1,7 @@
 ---
 title: "The Chicks Change Their Name"
 date: 2020-07-07T09:02:19-07:00
+expirydate: 2020-07-07T09:02:19-07:00
 draft: true
 type: "content"
 ---
