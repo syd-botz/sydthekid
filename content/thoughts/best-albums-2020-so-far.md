@@ -1,5 +1,5 @@
 ---
-title: "Best Albums 2020 So Far"
+title: "best albums 2020 so far"
 date: 2020-07-07T16:09:26-07:00
 draft: false
 ---
@@ -19,7 +19,7 @@ in no particular order...
     - "Glad I'm Gone" - Steeldrivers never disappoint with a classic breakup song once again
     - "Mama Says No" - an instrumental that is definetely inspired by the feeling of when mama says no
     - "Lonely and Being Alone" - like they say, "there's a difference between being lonely and being alone" and that's never felt more true to me in these COVID times
-## Devotion, Margaret Glaspby 
+## Devotion, Margaret Glaspy 
     Notable Mentions... 
     - "Killing What Keeps Us Alive"
     - "Young Love"
