@@ -1,8 +1,7 @@
 ---
-title: "Uncanny Valley"
+title: "a review of Anna Wiener's Uncanny Valley: A Memoir"
 date: 2020-08-06T11:22:20-05:00
 ---
-# A Review of *Uncanny Valley: A Memoir* by  Anna Wiener
 As a fresh college graduate, a young woman, working my first job as a software developer, Anna Wiener in *Uncanny Valley: A Memoir* put words to many of my own internal doubts and hesitant enjoyment of this new world. Wiener's story follows her from underpaid and overworked in the New York publishing industry to perhaps overpaid and overqualified in San Francisco's Silicon Valley in various customer support roles to ultimately unemployed by choice.
 
 In her compelling narrative format, Wiener's journey provides a great cultural overview of the Silicon Valley tech world. Her perspective feels intentionally well defined — a struggling liberal arts college-grad, educationally privileged, and taught to find value and love in one's work. Her clearly defined perspective is what makes this book so sharp and lively but still a grounded, broad cultural critique.

@@ -20,9 +20,5 @@ title = "syd the kid"
     text = 'sees'
 
 [[params.mainMenu]]
-    link = '/readon'
-    text = 'reads'
-
-[[params.mainMenu]]
     link = '/'
     text = 'home'
