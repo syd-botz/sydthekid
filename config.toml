@@ -4,7 +4,7 @@ languageCode = "en-us"
 title = "syd the kid"
 
 [[params.mainMenu]]
-    link = '/about'
+    link = '/'
     text = 'syd'
 
 [[params.mainMenu]]
@@ -16,9 +16,5 @@ title = "syd the kid"
     text = 'listens'
 
 [[params.mainMenu]]
-    link = '/gallery'
-    text = 'sees'
-
-[[params.mainMenu]]
-    link = '/'
-    text = 'home'
+    link = '/about'
+    text = 'is'
