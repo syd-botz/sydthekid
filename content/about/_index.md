@@ -5,14 +5,16 @@ draft: false
 type: "content"
 ---
 
-syd botz here (sounds like "boats"). minnesota born and bred.
+syd botz (sounds like "boats"). 
 
-in a constant state of moving (IL-MN-CA) these days. 
-
-listening to music to find home.
+minnesotan.
 
 software developer. yarn artist. amateur country and bluegrass music historian. 
 
 not a banjo player.  
 
-send me a msg @ sydneylaurabotz@gmail.com.  
+sydneylaurabotz@gmail.com
+
+@sydboats
+
+![syd](headshot.jpg)
