@@ -148,7 +148,7 @@ hr {
   opacity: 70%; }
 
 #home-quote-body {
-  font-size: 30px;
+  font-size: 50px;
   letter-spacing: 1px;
   line-height: 1.4; }
 
