@@ -14,8 +14,6 @@ be a teacher.
 
 i am not a banjo player (currently).  
 
-sydneylaurabotz@gmail.com
-
-@sydboats
+sydneylaurabotz@gmail.com &#183; [@sydboats](https://www.instagram.com/sydboatz/) &#183; [syd-botz](https://github.com/syd-botz)
 
 ![syd](headshot.jpg)

@@ -16,7 +16,7 @@ oh but take a deep breath, my good friend. Shoshana is here to help, not spew us
 our own decisions about our future, taking down mass economic inequalities, creating safety for those who have the most to lose at the hand of private and government surveillance, and maintaining our ability to hold uncertainty as a right. Zuboff
 comes across as slightly alarmist, but not without countering with good reason and hope for the future.
 
-This is intended to serve either as an overview of her book so you don't have too read ALL 500 pages and you can still take her
+this is intended to serve either as an overview of her book so you don't have too read ALL 500 pages and you can still take her
 concepts into your kickass world or as a supplement to help make sense of all the new terms and how they fit together.
 
 # Surveillance Capitalism is...
@@ -39,6 +39,9 @@ concepts into your kickass world or as a supplement to help make sense of all th
 
 - an expropriation of critical human rights that is best understood as a coup from above: an overthrow of the people's sovereignty
 
+
+![concept map](/Surveillance_Cap_Concept_Map.png)
+
 # Key Terms
 
 ## **behavioral surplus**
@@ -52,7 +55,7 @@ concepts into your kickass world or as a supplement to help make sense of all th
 ## division of learning in society
 
 > a means of social order that results from our new economic models; an information civilization where people, processes, and things are turned into information; brings up questions about who knows?, who decides?, and who decides who decides?
-
+__
 ## **extraction imperative**
 
 > drive to get as much behavioral surplus from as many places as possible; pushes surveillance capitalists from creating behavioral data from the physical/daily life ⇒ body ⇒ self
