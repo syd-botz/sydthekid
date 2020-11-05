@@ -1,16 +1,25 @@
 # sydthekid
 thoughts on music 
 
-# draft content headers example 
-
+# minimum headers for published post 
+```---
+   title: "a break down of Zuboff's The Age of Surveillance Capitalism"
+   date: 2020-11-02T16:39:00-06:00
+   draft: false
+   showDate: true
+   ---
 ```
-_____
+
+# draft content headers example 
+```
+---
 title: "The Chicks Change Their Name"
 date: 2020-07-07T09:02:19-07:00
 expirydate: 2020-07-07T09:02:19-07:00
 draft: true
 type: "content"
-_____
+showDate: true
+---
 ```
 
 # publishing a post 
