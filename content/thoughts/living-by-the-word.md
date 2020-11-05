@@ -1,6 +1,7 @@
 ---
 title: "a review of Alice Walker's Living by the Word"
 date: 2020-08-27T16:20:55-05:00
+showDate: true
 ---
 
 Every once and a while, I read a book that reminds me of the forces outside myself, the power I have over myself but not other others, and the tender way that I want to live with beings of the world — humans, plants, animals, and processes like the rising and setting of the sun. This is one of those books. Alice Walker has come into my life once again, just like she did when I picked up *The Color Purple* last year, when I needed this message, for which I am grateful. I love this series of essays, journal entries, and speeches. They are a powerful reflection on change and growth over a decade of Walker's life and have helped me reframe my time now as one of growth and change rather than of anguish and lostness. Through her commentary on people's critical responses to *The Color Purple*, her daughter's smoking habits, her changing relationship to her hair as a Black woman, and her own slow journey to a plant-based diet, Walker teaches the first step towards justice in our world is choosing to live with intention and attention toward ourselves and our communities in the natural world — people and animals and plants and all. "Teach yourself peace. Pass it on." (193).

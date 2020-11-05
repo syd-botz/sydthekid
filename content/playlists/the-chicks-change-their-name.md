@@ -3,6 +3,7 @@ title: "The Chicks Change Their Name"
 date: 2020-07-07T09:02:19-07:00
 expirydate: 2020-07-07T09:02:19-07:00
 type: "content"
+showDate: true
 ---
 # Challenging Gaslighting: moving beyond praising the chicks for removing "dixie" from their name
 The Chicks have been known as the badass (imo), liberal, rebellious country music woman super-group. Somehow they have managed to

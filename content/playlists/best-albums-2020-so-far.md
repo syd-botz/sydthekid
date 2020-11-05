@@ -2,6 +2,7 @@
 title: "best albums 2020 so far"
 date: 2020-07-07T16:09:26-07:00
 draft: false
+showDate: true
 ---
 
 in no particular order...

@@ -1,6 +1,7 @@
 ---
 title: "the quality of country"
 date: 2020-07-04T12:15:16-07:00
+showDate: true
 ---
 a collection of thoughts on what makes country music 
 

@@ -1,7 +1,8 @@
 ---
-title: "a break down of Zuboff's monsterous book - The Age of Surveillance Capitalism"
+title: "a break down of Zuboff's The Age of Surveillance Capitalism"
 date: 2020-11-02T16:39:00-06:00
 draft: false
+showDate: true
 ---
 
 ok you may have heard the term "Surveillance Capitalism" dropped in the last year and increasingly in the last months as Netflix dropped its new dramatic documentary _The Social Dilemma_
