@@ -1,5 +1,5 @@
 ---
-title: "[dev shit] may you always unblock yourself: a few problem solving techniques"
+title: "[for devs] may you always unblock yourself: a few problem solving techniques"
 date: 2020-11-05T13:45:08-06:00
 showDate: true
 ---
