@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://banjoboy.net/playlists/on-friendship/</loc>
-    <lastmod>2020-12-22T19:30:35-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://banjoboy.net/playlists/</loc>
-    <lastmod>2020-12-22T19:30:35-06:00</lastmod>
+    <lastmod>2020-12-31T12:55:26-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://banjoboy.net/</loc>
+    <lastmod>2020-12-31T12:55:26-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://banjoboy.net/playlists/top-albums-of-2020/</loc>
+    <lastmod>2020-12-31T12:55:26-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://banjoboy.net/playlists/on-friendship/</loc>
     <lastmod>2020-12-22T19:30:35-06:00</lastmod>
   </url>
   
