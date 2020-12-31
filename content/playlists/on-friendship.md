@@ -7,7 +7,7 @@ showDate: true
 this year demanded a lot. 
 
 honestly parts of this year i lost my way, i lost my focus on what is important to me. 
-__
+
 in losing myself, i have been finding my way home. 
 
 and i am realizing that my home has always been filled with my friends.  
