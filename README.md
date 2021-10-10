@@ -11,6 +11,7 @@ thoughts on music
 ```
 
 # draft content headers example 
+`expirydate` must be before current time. Easy to just make `date = expirydate`
 ```
 ---
 title: "The Chicks Change Their Name"

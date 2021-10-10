@@ -3,6 +3,9 @@ baseURL = "https://banjoboy.net/"
 languageCode = "en-us"
 title = "syd the kid"
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [[params.mainMenu]]
     link = '/'
     text = 'syd'
